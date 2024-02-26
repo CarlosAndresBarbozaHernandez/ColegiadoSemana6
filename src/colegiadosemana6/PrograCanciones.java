@@ -8,7 +8,8 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author charlie
+ * @author Carlos Andres Barboza Hernandez
+ * 
  */
 public class PrograCanciones {
     
